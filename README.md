@@ -12,7 +12,7 @@
 - 🎓 Scholarship Portal (Laravel + MySQL)
 - 📅 Event Management Website (PHP + MySQL)
 
-📊 Currently exploring: MLOps, advanced React, and cloud deployment.
+📊 Currently exploring: MERN Stack, Machine Learning.
 
 📫 Let's connect:  
 🔗 [LinkedIn](https://www.linkedin.com/in/harvi-shah-0918762b4/)  
