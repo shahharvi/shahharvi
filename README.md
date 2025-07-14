@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Harvi Shah</h2>
+<h2 align="center">👋 Hello, I'm Harvi Shah</h2>
 <p align="center">A Computer Engineering student & ML enthusiast from India 🇮🇳</p>
 
 ---
