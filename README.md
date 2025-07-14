@@ -13,17 +13,13 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
-Python
-Flask
-Streamlit
-JavaScript
-TensorFlow
-Keras
-MySQL
-HTML5
-CSS3
-Git
+## 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, JavaScript, HTML5, CSS3  
+- **Frameworks:** Flask, Streamlit, Laravel  
+- **Machine Learning:** TensorFlow, Keras, Scikit-learn
+- **Database:** MySQL  
+- **Version Control:** Git, GitHub  
 
 ---
 
